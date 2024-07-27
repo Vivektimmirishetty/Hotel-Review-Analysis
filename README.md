@@ -1,4 +1,4 @@
-# Predicting-Surgery-Outcomes
+# Hotel Review Analysis
 
 Hotel Review Analysis and Sentiment Prediction
 Welcome to the Hotel Review Analysis and Sentiment Prediction project! This repository contains code and documentation for analyzing hotel review data and predicting sentiments using advanced Natural Language Processing (NLP) techniques and machine learning algorithms.
